@@ -1,0 +1,11 @@
+TASK 4 - REFLECTION
+
+1.  Static visualizations are fixed images/graphs that does not allow interaction.  Whereas, with interactive visualizations,
+users can explore the data by zooming, hovering, filtering, etc.
+
+2.  Dashboards are useful for real-time data exploration because they can update automatically and allow users to monitor
+key metrics instantly.  This allows users to make faster and better decisionss based on current information.
+
+3.  Interactive tools like Plotly improve data communication in professional settings because the make complex data easier to 
+understand.  Users can explore the same chart in different ways, which allows them to discover insights more quickly and clearly
+compared to static charts.
